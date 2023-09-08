@@ -11,7 +11,7 @@
 
 
 ![Screenshot 2023-09-08 182953](https://github.com/kunal7216/Card-Pagination---JS/assets/112888767/96244ace-93f5-4975-aab2-c2a4651adb0f)
-![Screenshot 2023-09-08 182953](https://github.com/kunal7216/Card-Pagination---JS/assets/112888767/067b87de-9c6b-43a6-9a3d-399c697b6fff)
+
 
 
 
