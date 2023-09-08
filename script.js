@@ -1,3 +1,4 @@
+
 let itms = 6; // itemsPerPage
 let stpg = 1; // startPage
 let pltd = 4; // pageLinksToDisplay
